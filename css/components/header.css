@@ -1,0 +1,40 @@
+.gradiant {
+    background-image: linear-gradient(to bottom, #F095FD, #E5A986);
+}
+.navbar{
+    height: 87px;
+}
+.nav-link{
+    color: black;
+}
+
+hr{
+    margin: 0px;
+    color: rgba(255, 255, 255, 0.562);
+}
+.text{
+    font-size: 5.813rem;
+    font-weight: 600;
+    display: inline-block;
+    width: 831px;
+}
+
+.text-back{
+    border-radius: 4.563rem;
+    background-color: azure;
+    display: inline-block;
+}
+
+.btn{
+    background-image: linear-gradient(to right, #F095FD, #E5A986);
+    
+}
+
+.content{
+    margin-left: 10px;
+}
+
+.m-l{
+    margin-left: 70px;
+}
+
