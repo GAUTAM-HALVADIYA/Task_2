@@ -1,0 +1,28 @@
+.contact{
+    background-image: url("../../img/contact.png");
+    color: white;
+    margin-bottom: 118px;
+    background-repeat: no-repeat;
+    overflow: hidden; 
+    
+}
+
+.contact-heading{
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.contact .ulist{
+    list-style-image: url('../../img/list.png');
+    font-size: 16px;
+}
+
+.contact-btn{
+
+}
+
+.mask {
+    max-width: 100%;
+    height: auto;
+    margin-left: 100px;
+}

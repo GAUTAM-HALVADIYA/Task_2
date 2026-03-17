@@ -1,0 +1,91 @@
+.gred-btn{
+    background-image: linear-gradient(to right, #F095FD, #E5A986);
+    
+}
+
+.content{
+    margin-left: 10px;
+}
+
+.m-l{
+    margin-left: 70px;
+}
+
+
+
+
+.social .wrap{
+    margin-top: 76px;
+    margin-bottom: 90px;
+}
+
+.reels{
+    margin-bottom: 118px;
+}
+
+.title-pink{
+    color: #FF0084;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.reel{
+    height: 482px;
+    border-radius: 6px;
+    width: 326px;
+}
+
+.reel-gradiant{
+    height: 283px;
+    width: 100%;
+    background: linear-gradient(180deg,rgba(240, 150, 249, 0) 0%, rgba(230, 168, 139, 1) 62%, rgba(235, 159, 194, 1) 93%);
+    border-radius: 6px;
+}
+
+.reel .all{
+    margin: 0 12px;
+    margin-bottom: 36px;
+    font-weight: 600;
+}
+
+.reel-1{
+    background-image: url("../../img/reel-1.png");
+    background-size: cover;
+    
+}
+.reel-2{
+    background-image: url("../../img/reel-2.png");
+    background-size: cover;
+    
+}
+.reel-3{
+    background-image: url("../../img/reel-3.png");
+    background-size: cover;
+    
+}
+.reel-4{
+    background-image: url("../../img/reel-4.png");
+    background-size: cover;
+    
+}
+
+
+.text p{
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+
+.text h5{
+    font-size: 12px;
+    margin-bottom: 30px;
+}
+
+.play-circle{
+    width: 40px;
+    height: 40px;
+
+}
+
+.play-image{
+    transform: translate(-50%, -45%);
+}

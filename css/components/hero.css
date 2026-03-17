@@ -1,0 +1,17 @@
+.gradiant {
+    background-image: linear-gradient(to bottom, #F095FD, #E5A986);
+}
+
+.text-main{
+    font-size: 5.813rem;
+    font-weight: 600;
+    display: inline-block;
+    width: 831px;
+}
+
+.text-back{
+    border-radius: 4.563rem;
+    background-color: azure;
+    display: inline-block;
+}
+
