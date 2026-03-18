@@ -5,6 +5,7 @@
 @import "./components/showcase.css";
 @import "./components/contact.css";
 @import "./components/upcoming.css";
+@import "./components/gallary.css";
 
 * {
     font-family: "Inter", sans-serif;
