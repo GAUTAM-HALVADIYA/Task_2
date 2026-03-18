@@ -6,6 +6,7 @@
 @import "./components/contact.css";
 @import "./components/upcoming.css";
 @import "./components/gallary.css";
+@import "./components/footer.css";
 
 * {
     font-family: "Inter", sans-serif;
@@ -13,8 +14,8 @@
     font-style: normal;
 }
 
-@media (min-width: 1400px) {
-    .container-xxl, .container-xl, .container-lg, .container-md, .container-sm, .container {
+@media (min-width: 1420px) {
+    .container {
         max-width: 1410px;
     }
 }

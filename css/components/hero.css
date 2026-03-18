@@ -3,15 +3,20 @@
 }
 
 .text-main{
-    font-size: 5.813rem;
+    font-size: clamp(2.2rem, 6vw, 5.813rem);
     font-weight: 600;
-    display: inline-block;
-    width: 831px;
+    width: 100%;
 }
 
 .text-back{
     border-radius: 4.563rem;
     background-color: azure;
     display: inline-block;
+    padding: 0 12px;
 }
 
+.hero img{
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
